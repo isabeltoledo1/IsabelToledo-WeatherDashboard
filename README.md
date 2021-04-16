@@ -12,7 +12,7 @@ A simple weather app.  Allows the user to search a city that will display their 
   
 ### Deployed Link
     
- 
+ https://isabeltoledo1.github.io/IsabelToledo-WeatherDashboard/
 
 
 ### Installation
